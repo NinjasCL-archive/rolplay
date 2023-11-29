@@ -1,6 +1,4 @@
-# Roleplay.net
-
-![rolplay](https://github.com/NinjasCL-archive/rolplay/assets/292738/65d0e18b-863e-454e-be3d-a6ee007cd9fd)
+# ![rolplay](https://github.com/NinjasCL-archive/rolplay/assets/292738/65d0e18b-863e-454e-be3d-a6ee007cd9fd)
 
 Backup del juego Rolplay.net creado por David Gonzalez Bisbal (Sevia)
 
