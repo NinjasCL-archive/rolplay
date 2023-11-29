@@ -13,3 +13,4 @@ Una vez lances la aplicación, solo tienes que crear tu usuario, adquirir un par
 
 ![logo](https://github.com/NinjasCL-archive/rolplay/assets/292738/c44cdbac-1218-4bc7-b978-e09dc422f076)
 
+![image](https://github.com/NinjasCL-archive/rolplay/assets/292738/551e1737-725c-493d-958f-343f292467fa)
