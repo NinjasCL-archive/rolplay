@@ -1,0 +1,286 @@
+name;rarity;quantity;level
+Poder;1;12;1
+Elfo Bardo;1;12;1
+Duende;1;12;1
+Guerrero Menor;1;12;1
+Dophan;50;12;1
+Gorad Menor;60;12;1
+Mimit;20;12;1
+Mel;1;12;1
+Guerrero Mediano;1;12;2
+Aries Menor;1;12;2
+Ninfa;50;12;2
+Lestat;60;12;2
+Guarda;60;12;2
+Ozk;80;3;2
+Aries Mediano;20;12;3
+Gorad Mediano;20;12;3
+Atia;20;12;3
+Enano Menor;20;12;3
+Chapanhan;70;12;3
+Eio Menor;1;12;3
+Explorador;95;2;3
+Bashi;60;12;4
+Lancero;90;12;4
+Enano Mayor;20;12;4
+Gorad Mayor;40;12;4
+Momia;95;3;4
+Orco;45;5;4
+Golem;20;12;4
+Eio Mayor;70;12;5
+Zoa;40;12;5
+Aries Mayor;10;12;5
+Poder x 3;65;40;5
+Chamad;50;12;5
+Mercenario;10;12;5
+Arlequin Menor;50;12;5
+Celestial;80;12;5
+Arlequin Mayor;20;12;6
+Elfo Negro;60;12;6
+Ave de noche;10;5;6
+Paleo;10;12;6
+Radia;90;12;6
+Rukia;50;12;6
+Umbral;95;12;6
+Minotauro;20;12;6
+Atea;99;3;6
+Fuente de vida;60;12;6
+Escudal;55;12;6
+Poderador;60;40;6
+Gran Guerrero;10;12;7
+Gran Elfo;10;12;7
+Gusold;10;12;7
+Oratio;40;12;7
+Rush;60;2;7
+Mago Blanco;60;12;7
+Blitz Menor;20;12;7
+Cobald;90;2;7
+Ordrihn;30;12;7
+Poder x 4;65;40;7
+Veneno;60;12;7
+Atriad;10;12;8
+Enano de Oro;10;12;8
+Blitz Mediano;20;12;8
+Hidra;90;2;8
+Eretik;1;12;8
+Trasgo Menor;90;12;8
+Mercane;75;12;8
+Ador;55;12;8
+Drenador;55;12;8
+Hada;90;1;8
+Tachi;60;2;9
+Bebe Dragon;90;2;9
+Lancero Menor;80;2;9
+Blitz Mayor;50;2;9
+Moriel;80;2;9
+Oracty;85;2;9
+Mujer Aguila;100;1;9
+Suza;10;2;10
+Dehil;80;2;10
+Poder x 5;70;40;10
+Gran Oso;80;2;10
+Vampiro;20;2;10
+Fureh;60;2;10
+Arpada;80;2;10
+Aguila Gigante;35;2;10
+Veneno x 2;70;2;10
+Trasgo Mayor;80;2;11
+Gran Blitz;10;2;11
+Sombra;60;2;11
+Mole;65;2;11
+Demonio;75;2;11
+Sardo;30;2;11
+Hongo;99;2;11
+Malar;90;2;11
+Lancero Mayor;10;2;12
+Gran Trasgo;60;2;12
+Presenter;95;2;12
+Hombre Lobo;70;2;12
+Fuente de vida x 2;70;2;12
+Escudal x 2;60;2;12
+Elfo Arquero;95;1;12
+Lanzador;10;2;13
+Arcero;10;2;13
+Tumbadil;20;2;13
+Hyel;50;2;13
+Taros;99;2;13
+Inevitables;99;2;13
+Poder x 6;95;40;13
+Poderador x 2;65;2;13
+Poder Mental;99;2;13
+Dragon Rojo;90;2;14
+Ithids Menores;60;2;14
+Azote;40;2;14
+Oscuro;70;2;14
+Morthen;90;2;14
+Korth;100;2;14
+Sirena;10;2;15
+Poder x 7;80;40;15
+Ithids Mayores;50;2;15
+Urgul;99;2;15
+Basilisco;80;2;15
+Thrul;90;2;15
+Escudal x 3;70;2;15
+Barrera Mistica;80;2;15
+Atea Mayor;99;3;15
+Albala;70;10;15
+Poder x 7 Poderal;100;1;15
+Poder x 7 Natural;100;1;15
+Poder x 7 Ametal;100;1;15
+Poder x 7 Domica;100;1;15
+Espinal;50;2;16
+Saga;99;2;16
+Colossus;99;2;16
+Poder Mental x 2;99;2;16
+Kurth Arth;80;2;16
+Esteagol;30;2;17
+Osgo;20;2;17
+Viguil;60;2;17
+Astral;99;2;17
+Drenador x 2;70;2;17
+Muralez;95;2;17
+Elfo Avanzado;75;1;17
+Poder x 8 Mayor;100;1;17
+Alchemia;60;12;18
+Kehanar;80;12;18
+Petioner;40;12;18
+Trigild;10;12;18
+Tutar Amon;30;2;19
+Yogoloth;99;2;19
+Veneno x 3;75;2;19
+Poderador x 3;75;2;19
+Barbaro;85;2;19
+Observador;20;2;20
+Poder x 10;90;40;20
+Manath;40;2;20
+Fuente de vida x 3;75;2;20
+Poder Mental x 3;99;2;20
+Poder Mental x 4;99;2;20
+Argnathor Poderal;100;1;20
+Rebolt;75;1;20
+Urgul Mayor;100;1;20
+Angel Caido;100;1;20
+Poder x 10 Poderal;100;1;20
+Poder x 10 Natural;100;1;20
+Poder x 10 Ametal;100;1;20
+Poder x 10 Domica;100;1;20
+Arienel;20;2;21
+Escudal x 4;70;2;21
+Acrum;100;2;21
+Alendrar;20;2;22
+Drakar;70;2;22
+Barrera Mistica x 2;80;2;22
+Poder Mental x 5;99;2;22
+Kurth Arth x 2;90;2;22
+Elfo Oscuro;80;3;22
+Dragon esqueleto;90;2;22
+Poder x 12 Mayor;100;1;22
+Afal;1;2;23
+Drenador x 3;80;2;23
+Dragor;20;2;24
+Grifo;79;2;24
+Chimera Menor;20;2;25
+Poder x 15;85;40;25
+Enher;100;2;25
+Titan;81;2;25
+Paladin;85;2;25
+Fuente de vida x 4;80;2;25
+Rueda;90;2;25
+Poderador x 4;80;2;25
+Ruinthz;90;2;25
+Argnathor Ametal;100;1;25
+Poder x 15 Domica;100;1;25
+Poder x 15 Ametal;100;1;25
+Poder x 15 Natural;100;1;25
+Poder x 15 Poderal;100;1;25
+Espiritu del mar;90;2;26
+Maderal;85;2;26
+Muralez x 2;99;2;26
+Acrum x 2;100;2;26
+Draconia;100;2;26
+Kraken;75;2;27
+Corrosivo;80;2;27
+Poder Mental x 6;99;2;27
+Poder Mental x 7;99;2;27
+Hermanos Elfo;100;1;27
+Mohrg;95;12;28
+Servidor;99;12;28
+Arcangel;70;2;29
+Demonio rojo;85;2;29
+Veneno x 4;85;2;29
+Flora;100;2;29
+Archer;90;2;30
+Hechizero Negro;85;2;30
+Argnathor Natural;100;1;30
+Caza Dragones;55;5;30
+Hombre Angel;100;1;30
+Poder x 15 Mayor;100;1;30
+HipoGrifo;75;2;31
+Gith;80;2;31
+Solemn;100;2;31
+Chimera Mayor;70;2;32
+Elion;60;2;32
+Poder Mental x 8;99;2;32
+Kurth Arth x 3;95;2;32
+Dragon azul;60;2;33
+Dragon verde;50;2;33
+Escudal x 5;80;2;33
+Dragon Helado;80;2;34
+Gargola;70;2;34
+Acrum x 3;100;2;34
+Ardala;100;2;34
+Gargola de Oro;65;2;35
+Incael;79;2;35
+Fuente de vida x 5;85;2;35
+Rueda x 2;95;2;35
+Barrera Mistica x 3;80;2;35
+Sanal;100;2;35
+Argnathor Domic;100;1;35
+Elfo Brujo;100;1;35
+Sibad;90;2;36
+Remente;50;2;36
+Poderador x 5;95;2;36
+Poder Mental x 9;99;2;36
+Ruinthz x 2;95;2;36
+Agathirmur;85;2;37
+Rataria;70;2;37
+Fase;70;2;38
+Garbol;75;2;38
+Hijo de Keathan;100;2;39
+Krahn;80;2;39
+Veneno x 5;95;2;39
+Drac Blanco Mayor;65;2;40
+Drac Azul Mayor;80;2;40
+Bestia del Caos;100;2;40
+Dragon Marron;50;2;40
+Tormentus;90;1;40
+Athar Zum;95;1;40
+Dragon Dorado;89;2;41
+Drac de Bronce;70;2;41
+Ruinthz x 3;100;2;41
+Dragon Plateado;80;2;42
+Stazhart;75;2;42
+Asxel;60;2;42
+Rueda x 3;100;2;42
+Kurth Arth x 4;100;2;42
+Angrath;100;2;43
+GraDrac;50;2;43
+Volatilh;80;2;44
+Drac Verde Mayor;70;2;44
+Gigante;100;2;45
+Grath;70;2;45
+Poder Mental x 10;99;2;45
+Acrum x 4;100;2;45
+Insignia Solamnica;100;2;45
+Oroth Fezhal;75;2;46
+Imnazthril;100;2;46
+Genios;100;2;46
+Dragon Demonio;80;2;47
+Dragon Negro;70;2;47
+Pesadilla;100;2;48
+Reptenzh;75;2;48
+Dragon Oscuro;99;2;49
+Poder Mental x 11;99;2;49
+Tentaculo;100;2;49
+Keatahn;100;2;50
+Poder x 20;100;2;50
